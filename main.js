@@ -1,4 +1,4 @@
-// Abstract class for TodoItemFormatter
+
 class TodoItemFormatter {
   formatTask(task) {
     return task.length > 14 ? task.slice(0, 14) + "..." : task;
