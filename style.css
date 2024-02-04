@@ -148,14 +148,20 @@ header .input-section {
     right: 16px;
 }
 .btn completed{
-    position: absolute;
-    top: 16px;
-    right: 16px;
+   width: Fixed (736px)
+   height: Hug (19px)
+   top: 571px
+   left: 344px
+   gap: 24px
+
 }
 .btn started{
-    position: absolute;
-    top: 16px;
-    right: 16px;
+  width: Fixed (736px)
+  height: Hug (19px)
+  top: 525px
+  left: 344px
+  gap: 24px
+
 }
 /* Responsive */
 @media only screen and (max-width: 530px) {
